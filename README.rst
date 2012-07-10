@@ -1,5 +1,5 @@
-Django Export
-=============
+Django South Admin
+==================
 **Django app allowing for South management through Admin**
 
 ``django-south-admin`` allows you trigger `South <http://south.aeracode.org/>`_ migrations and manage migration histories through Django's admin interface.
