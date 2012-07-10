@@ -27,5 +27,5 @@ Once installed you should see a new *South* section on admin home. On the *Migra
 
 If you don't see the tool make sure the logged in user has the appropriate *Can migrate migration historys* user permission assigned (or set user as superuser).
 
-Clicking the *Migrate* tool link will immediatly kick-off a South ``migrate`` run and return its output.
+Clicking the *Migrate* tool link will immediatly kick-off South's ``migrate`` management command and return its output.
 
