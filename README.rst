@@ -21,11 +21,11 @@ Installation
 Usage
 -----
 
-Once installed you should see a new ``South`` section on admin home. On the **Migration histories** listing view a new **Migrate** tool will be available allowing you to run South's ``migrate`` management command.
+Once installed you should see a new *South* section on admin home. On the *Migration histories* listing view a new *Migrate* tool will be available allowing you to run South's ``migrate`` management command.
 
 .. image:: https://github.com/downloads/praekelt/django-south-admin/migrate_example.png
 
 If you don't see the tool make sure the logged in user has the appropriate *Can migrate migration historys* user permission assigned (or set user as superuser).
 
-Clicking the **Migrate** tool link will immediatly kick-off a South ``migrate`` run and return its output.
+Clicking the *Migrate* tool link will immediatly kick-off a South ``migrate`` run and return its output.
 
